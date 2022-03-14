@@ -1,0 +1,17 @@
+{
+    "crackedusernameprefix": "legit_",
+
+    "ip": "grand-play.su",
+    "port": 25565,
+    "version": "1.12.2",
+
+    "loginintervalms": 2500,
+
+    "altening": false,
+    "altening_token": "",
+
+    "spammessage": "!@minecraft_legitbot best free telegam bot for ddos minecraft servers!",
+    "spamintervalms": 1500,
+
+    "physics": true
+}
